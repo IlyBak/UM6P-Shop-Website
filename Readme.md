@@ -268,9 +268,9 @@ This project is part of the **UM6P university shop initiative**.
 ## 👨‍💻 Author
 
 **Ilyas Bakri**  
-GitHub: https://github.com/IlyBak 
-Email : bilyas12345@gmail.com
-Linkedin : linkedin.com/in/ilyas-bakri-1b1162304 
+- GitHub: https://github.com/IlyBak 
+- Email : bilyas12345@gmail.com
+- Linkedin : https://www.linkedin.com/in/ilyas-bakri-1b1162304
 
 ---
 
